@@ -74,12 +74,12 @@ body{
 }
 .cart{
     width: 600px;
-    height: 700px;
+    height: 500px;
 }
 .cartimage{
     width: 600px;
-    height: 700px;
-    margin-top: -650px;
+    height: 400px;
+    margin-top: -400px;
     background-image: url(./images/shoe.png);
     background-size: 500px 400px;
     background-repeat: no-repeat;
